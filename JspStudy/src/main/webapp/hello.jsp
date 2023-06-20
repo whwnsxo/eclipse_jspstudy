@@ -21,12 +21,10 @@
        document.write("<h1>"+hello+"</h1>")
      </script>
     */
-  %>
-  <hr>
-  	str의 값 출력=<%=str%>
-</body>
-</html>
-
-
-
+    %>
+    <%=str%>
+    <hr>
+    	str의 값 출력=<%=str%>
+  </body>
+  </html>
 
