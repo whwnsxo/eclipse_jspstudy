@@ -22,6 +22,8 @@
      </script>
     */
   %>
+  <hr>
+  	str의 값 출력=<%=str%>
 </body>
 </html>
 
